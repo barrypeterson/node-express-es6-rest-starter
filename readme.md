@@ -12,6 +12,10 @@ npm install
 
 npm run dev
 
+## Versions
+
+Branch rel-0.1.0: No Db, no Passport
+
 ## Contributing
 
 1. Fork it!
