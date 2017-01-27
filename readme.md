@@ -2,6 +2,8 @@
 
 Create clean and light node.js/express starter with es6 support
 
+VSCode Debugger Setup with Babel
+
 ## Installation
 
 npm install
