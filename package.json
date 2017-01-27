@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "dev": "nodemon bin/www --debug --exec babel-node",
+    "dev": "nodemon src/app.js --exec babel-node",
     "build": "export NODE_ENV=production && babel src --out-dir dist",
     "run-server": "node dist/app.js",
     "test": "mocha --compilers js:babel-register"
