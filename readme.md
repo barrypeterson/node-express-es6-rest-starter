@@ -1,6 +1,6 @@
 # Node / Express / Es6
 
-Create clean and light node.js/express starter with es6 support
+Create clean and light node.js/express api starter with es6 support
 
 VSCode Debugger Setup with Babel
 
